@@ -3,7 +3,8 @@ DNSBLFilter
 
 Overview
 --------
-A shoddy program used to identify domains by keyword matching.
+- A shoddy program used to identify domains by keyword matching.
+- Used to generate https://divested.dev/blocklists/ExperimentalV3.txt
 
 Quick Start
 -----------
