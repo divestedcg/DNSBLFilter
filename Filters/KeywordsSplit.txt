@@ -1,6 +1,4 @@
 ad
-adv
-adx
 ad0
 ad1
 ad2
@@ -12,6 +10,8 @@ ads1
 ads2
 ads3
 ads4
+adv
+adx
 affiliate
 affiliates
 as
@@ -30,9 +30,8 @@ feedback
 fingerprint
 fingerprinting
 hit
-insights
 ibis
-smartshare
+insights
 klick
 log
 logging
@@ -62,6 +61,7 @@ reporting
 reports
 scrooge
 securemetrics
+smartshare
 smetrics
 sponsor
 stat
@@ -82,6 +82,7 @@ tap0
 tap1
 tap2
 tap3
+tmetrix
 track
 tracker
 tracking
