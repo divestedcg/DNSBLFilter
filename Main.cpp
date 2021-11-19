@@ -133,6 +133,6 @@ int main() {
 	cout << "Sorted\n\n";
 
 	cout << "Writing out...\n";
-	writeSetToFile("Generated/ExperimentalV3-UP.txt", arrDomainsMaliciousSorted);
+	writeSetToFile("Generated/ExperimentalV4-UP.txt", arrDomainsMaliciousSorted);
 	cout << "Wrote out " << arrDomainsMaliciousSorted.size() << " malicious domains\n\n";
 }

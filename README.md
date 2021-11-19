@@ -9,7 +9,7 @@ Overview
 Quick Start
 -----------
 - Clone the repo
-- wget https://divested.dev/Domains.txt.zst
+- wget https://divested.dev/Domains-20211118.txt.zst
 - unzstd Domains.txt.zst
 - sh build.sh
 - mkdir Generated
@@ -17,7 +17,7 @@ Quick Start
 
 Legal
 -----
-- Domains.txt is 188 million domain names, in theory it cannot be copyrighted.
+- Domains.txt is 189 million domain names, in theory it cannot be copyrighted.
 - Companies-*.txt are lists of thousands of companies, it too in theory cannot be copyrighted.
 
 Credits
