@@ -212,7 +212,6 @@ schibsted
 seatpg
 sentori
 sergiimykolaenko
-seznam
 shawthing
 silktide
 siteheart

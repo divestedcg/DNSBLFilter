@@ -19,6 +19,7 @@ banner
 banners
 beacon
 beacons
+bugly
 click
 clicks
 collect

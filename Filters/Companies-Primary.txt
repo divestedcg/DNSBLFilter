@@ -1128,7 +1128,6 @@ getintent
 getiton
 getkudos
 getmyad
-getpocket
 getseecure
 getsignals
 gfkdaphne
